@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "かかとローラー",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-24T13:24:56.219276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かかとローラー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_かかとローラー_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かかとローラー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_かかとローラー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "かかとローラー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_かかとローラー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "かかとローラー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_かかとローラー_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
